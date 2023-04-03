@@ -4,7 +4,8 @@ In this assignment, you are a Data Analyst working at a Real Estate Investment T
 
 Dataset Used in this Assignment
 
-The dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015. It was taken from here. It was also slightly modified for the purposes of this course. 
+The dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015. It was taken from https://www.kaggle.com/harlfoxem/housesalesprediction?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-wwwcourseraorg-SkillsNetworkCoursesIBMDeveloperSkillsNetworkDA0101ENSkillsNetwork20235326-2022-01-01. 
+It was also slightly modified for the purposes of this course. 
 
 For this project, you will utilize JupyterLab running on the Cloud in Skills Network Labs environment. 
 
